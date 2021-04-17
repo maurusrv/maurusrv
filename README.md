@@ -107,18 +107,10 @@ frontend developer at ![](https://img.shields.io/badge/Bitcoin-000000?style=flat
 
 ## contribution
 
-<div style="display: flex; align-items: center;">
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=maurusrv&count_private=true&show_icons=true&theme=dark" />
-  </a>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurusrv&layout=compact&theme=dark" />
-  </a>
-</div>
+<p align="center">  
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=maurusrv&count_private=true&show_icons=true&theme=dark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurusrv&layout=compact&theme=dark" />
+</p>
 
-## community
+<!-- ## community -->
 
-#
-<div style="display: flex; justify-content: center;">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=maurusrv.tanongsagot" />
-</div>
