@@ -31,12 +31,15 @@ const fs = require('fs')
 // }
 
 function generateMarkdown () {
-  const markdownContents = fs.readFile('./READMEcontents.md', (err, data) => {
-    console.log(data)
+  const markdownContents = fs.readFileSync('./READMEcontents.md', 'utf-8', (err) => {
+    if (err) {
+      return console.log(err)
+    }
   })
 
-  const outputPath = `./README.md`
-  fs.writeFile(outputPath, markdownContents, function (err) {
+  const outputPath = './README.md'
+
+  fs.writeFile(outputPath, `${markdownContents}`, function (err) {
     if (err) {
       return console.log(err)
     }

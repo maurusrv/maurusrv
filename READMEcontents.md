@@ -102,10 +102,6 @@ frontend developer at ![](https://img.shields.io/badge/Bitcoin-000000?style=flat
   </tr>
 </table>
 
-![]()
-![]()
-
-
 ## education
 ![](https://img.shields.io/badge/UP%20Manila-751517?style=flat&Color=white&logo=)
 
