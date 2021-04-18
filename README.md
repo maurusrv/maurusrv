@@ -1,5 +1,5 @@
 # 👋 kumusta?
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div>
   <div>
     <h2>maurus vitor | web developer | instructor </h2>
     <span>
@@ -11,7 +11,7 @@
       </a>
     </span>
   </div>
-  <img width="200" height="200" src="./public/assets/images/maurusrv.png" />
+  <img align="right" width="280" height="280" src="./public/assets/images/maurusrv.png" />
 </div>
 <br>
 <samp>
@@ -19,7 +19,7 @@
   <br><br>
   i wonder what's really worse though, if you're actually living your ikigai!🌸
   <br><br>
-  anyway, a promise. As long as no thesis is done, no app deployed, no story published, no movie made, will die trying... while contributing tech to the world in the mean time.
+  anyway, a promise. as long as no thesis is done, no app deployed, no story published, no movie made, will die trying... while contributing tech to the world.
   <br><br>
   let's open source things, yes?
   <br><br>
